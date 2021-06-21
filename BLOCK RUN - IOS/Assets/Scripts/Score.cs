@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class Score : MonoBehaviour
 {
-    public Text scoreText;
+    public TMP_Text scoreTextTMP;
 
     public float distance = 0;
     public string scoreCount;
@@ -20,7 +21,7 @@ public class Score : MonoBehaviour
         if (distance >= 1)
         {
             scoreCount = (100 - (distance / 30)).ToString("0");
-            scoreText.text = scoreCount + percentage;
+            scoreTextTMP.text = scoreCount + percentage;
         }
     }
 
