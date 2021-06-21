@@ -1,338 +1,199 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32692 MB
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32717 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\2020.3.0f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/perry/Documents/GitHub/Synth-Run/BLOCK RUN - IOS
+D:/GITHUB/Synth-Run/BLOCK RUN - IOS
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60176
-Successfully changed project path to: C:/Users/perry/Documents/GitHub/Synth-Run/BLOCK RUN - IOS
-C:/Users/perry/Documents/GitHub/Synth-Run/BLOCK RUN - IOS
+50678
+Successfully changed project path to: D:/GITHUB/Synth-Run/BLOCK RUN - IOS
+D:/GITHUB/Synth-Run/BLOCK RUN - IOS
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 27.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
-[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/perry/Documents/GitHub/Synth-Run/BLOCK RUN - IOS/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GITHUB/Synth-Run/BLOCK RUN - IOS/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
     Vendor:   
-    VRAM:     6052 MB
-    Driver:   27.21.14.5671
+    VRAM:     8011 MB
+    Driver:   27.21.14.6677
 Initialize mono
-Mono path[0] = 'C:/Program Files/2020.3.0f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001285 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001579 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 23.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.171 seconds
+- Completed reload, in  1.762 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001521 seconds.
+Registered in 0.001198 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.524 seconds
+- Completed reload, in  0.869 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1442 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.1 MB.
-System memory in use after: 67.0 MB.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
 
-Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1871.
-Total: 1.832100 ms (FindLiveObjects: 0.150200 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.546900 ms  DeleteObjects: 0.077700 ms)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1887.
+Total: 1.942100 ms (FindLiveObjects: 0.231300 ms CreateObjectMapping: 0.033700 ms MarkObjects: 1.576300 ms  DeleteObjects: 0.099700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Title.unity
-  artifactKey: Guid(399ff74bdd664314388c7cb57c816348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Title.unity using Guid(399ff74bdd664314388c7cb57c816348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5764616ad103f7fa8bf495ac4d0adcca') in 0.012057 seconds
-  Import took 0.014023 seconds .
+  path: Assets/Scenes/LevelSelector.unity
+  artifactKey: Guid(723186c1f5a97df4fb668494f96757e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LevelSelector.unity using Guid(723186c1f5a97df4fb668494f96757e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4defb1a9fccb37ae5b60ebf8f3747d') in 0.014403 seconds
+  Import took 0.016878 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001451 seconds.
+Registered in 0.002039 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.498 seconds
+- Completed reload, in  0.830 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1430 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 66.4 MB.
-System memory in use after: 66.4 MB.
+System memory in use before: 68.5 MB.
+System memory in use after: 68.4 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1875.
-Total: 1.578200 ms (FindLiveObjects: 0.145700 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.352600 ms  DeleteObjects: 0.045500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 292.853862 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_a.prefab
-  artifactKey: Guid(393c6bb9dcb70964aa9aa55d7abc1cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_a.prefab using Guid(393c6bb9dcb70964aa9aa55d7abc1cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5282647bfa4f3383dd8c9bc21395cd') in 0.035110 seconds
-  Import took 0.038011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_f.prefab
-  artifactKey: Guid(74cb0e995a1417e429306cd60b5bb3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_f.prefab using Guid(74cb0e995a1417e429306cd60b5bb3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea410667f5c2ec1fec8e241ecbed3b8') in 0.006433 seconds
-  Import took 0.008165 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_c.prefab
-  artifactKey: Guid(59eb24af918f6e948be04bafe6b1b5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_c.prefab using Guid(59eb24af918f6e948be04bafe6b1b5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d4a7138e70731b1723eac9af5b4eab') in 0.006139 seconds
-  Import took 0.007817 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_b.prefab
-  artifactKey: Guid(036f486641d8b62429a20286082dd740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_b.prefab using Guid(036f486641d8b62429a20286082dd740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfff1850da61348cb819eb191c36a556') in 0.005532 seconds
-  Import took 0.007186 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_d.prefab
-  artifactKey: Guid(69612c8c2147c5441b492060e07a6d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_d.prefab using Guid(69612c8c2147c5441b492060e07a6d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db4c687a1d1a2c13cc0524288e0ab82') in 0.005626 seconds
-  Import took 0.007080 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_e.prefab
-  artifactKey: Guid(f212e9de76599f4469dd2e38a8ff9521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs/fx_text_e.prefab using Guid(f212e9de76599f4469dd2e38a8ff9521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1daef836e5f2d2307ed654d8252c77dd') in 0.007043 seconds
-  Import took 0.009003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.128213 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_a.png
-  artifactKey: Guid(af96567fa1baed745afa7442abe530bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_a.png using Guid(af96567fa1baed745afa7442abe530bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd384c26622f437fd45a3e041b59ba1') in 0.034568 seconds
-  Import took 0.036386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000144 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_e.png
-  artifactKey: Guid(3b2f09d88d70428449497e6231cf3e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_e.png using Guid(3b2f09d88d70428449497e6231cf3e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfeeb7fc3ebe2b42c6f28ebec08819b') in 0.012702 seconds
-  Import took 0.014696 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_b.png
-  artifactKey: Guid(d38f5170fe26f0249888a03dde2f9852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_b.png using Guid(d38f5170fe26f0249888a03dde2f9852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee9d3e52bf1e9f319fc073d69935641') in 0.008406 seconds
-  Import took 0.009997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000102 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_f.png
-  artifactKey: Guid(062fd43a992159245840bedde99a86e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_f.png using Guid(062fd43a992159245840bedde99a86e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432355132c6d110ed057bf75ad6e1c42') in 0.009216 seconds
-  Import took 0.010805 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_c.PNG
-  artifactKey: Guid(30bc3b8b7acfdb84d86603a8a8548c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_c.PNG using Guid(30bc3b8b7acfdb84d86603a8a8548c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed342ab6158eaa25f3d8f96e7bcf1fa0') in 0.005543 seconds
-  Import took 0.007063 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_d.PNG
-  artifactKey: Guid(7082257f3e2934f4b8ceadf2fae6fd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/fx_text_d.PNG using Guid(7082257f3e2934f4b8ceadf2fae6fd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d3a2af4be5e94f1d2b2898ec32bcff') in 0.007003 seconds
-  Import took 0.008433 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 37.150581 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_a.mat
-  artifactKey: Guid(85ec66a73f8355744abd4a071e56c52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_a.mat using Guid(85ec66a73f8355744abd4a071e56c52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d6fb4126a6866568892fe837da5c69') in 0.064173 seconds
-  Import took 0.066318 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000138 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_f.mat
-  artifactKey: Guid(b585cd84a09e8b1459e063b551bc5c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_f.mat using Guid(b585cd84a09e8b1459e063b551bc5c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef67dfabbfb84525aadaf2f09f67b5b') in 0.026751 seconds
-  Import took 0.028544 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_b.mat
-  artifactKey: Guid(87201b4c83d615148b427673fa54e9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_b.mat using Guid(87201b4c83d615148b427673fa54e9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa52f76bf6edc9b7b935c368d696ae1f') in 0.008145 seconds
-  Import took 0.010144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_e.mat
-  artifactKey: Guid(3e2fed1a4aa44814dabaf569b78a3a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_e.mat using Guid(3e2fed1a4aa44814dabaf569b78a3a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203c4d8fe85fb1666d71a3772ecf6e3c') in 0.007997 seconds
-  Import took 0.009425 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_c.mat
-  artifactKey: Guid(575350375a2aa4f4392c7c5425c1f507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_c.mat using Guid(575350375a2aa4f4392c7c5425c1f507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098cc5401ee8ad3d9b1246726acb4f4f') in 0.008696 seconds
-  Import took 0.010431 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_d.mat
-  artifactKey: Guid(1a481bcd3d78a1b4abf0e12128176939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials/fx_text_d.mat using Guid(1a481bcd3d78a1b4abf0e12128176939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe837f5ab5796c3b0b7dd9025971723') in 0.007638 seconds
-  Import took 0.009230 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.244267 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Scenes
-  artifactKey: Guid(7d17fc9f0574a094693e1ee2732de802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Scenes using Guid(7d17fc9f0574a094693e1ee2732de802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51aaa912d94011197fbcb3d3dba61082') in 0.004655 seconds
-  Import took 0.006694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.318446 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures
-  artifactKey: Guid(eb2c9b31f7109db49a8020840c386a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures using Guid(eb2c9b31f7109db49a8020840c386a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e363ae371a6e1784fa0e9768a01e9ef3') in 0.005338 seconds
-  Import took 0.007299 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003063 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures
-  artifactKey: Guid(eb2c9b31f7109db49a8020840c386a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures using Guid(eb2c9b31f7109db49a8020840c386a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e363ae371a6e1784fa0e9768a01e9ef3') in 0.001604 seconds
-  Import took 0.003138 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.555387 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs
-  artifactKey: Guid(7a27e29826873af4aa94fb84587cf465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Prefabs using Guid(7a27e29826873af4aa94fb84587cf465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9094bec80594c1cc9a35a0ecdd63e41') in 0.004878 seconds
-  Import took 0.006883 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 42.664409 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text
-  artifactKey: Guid(1673ea3c0debcbe47899633b5d4b2643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text using Guid(1673ea3c0debcbe47899633b5d4b2643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9d440f54b551d12bb13a56902cbae5') in 0.005331 seconds
-  Import took 0.007199 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000596 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text
-  artifactKey: Guid(1673ea3c0debcbe47899633b5d4b2643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text using Guid(1673ea3c0debcbe47899633b5d4b2643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9d440f54b551d12bb13a56902cbae5') in 0.001465 seconds
-  Import took 0.003157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.805493 seconds.
-  path: Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials
-  artifactKey: Guid(f7926b4c1daea2d4b9172d484bdf645c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack/FX_effect_sprite_image01_02/FX_text_effects/Textures/fx_text/Materials using Guid(f7926b4c1daea2d4b9172d484bdf645c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789dd157b67be6461a5166cd2e089514') in 0.004873 seconds
-  Import took 0.007040 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.072627 seconds.
-  path: Assets/FX_Kandol_Pack
-  artifactKey: Guid(55a0e14fc09d194489307c7c8f3841d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FX_Kandol_Pack using Guid(55a0e14fc09d194489307c7c8f3841d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e546a666d4e34ab5f0226600f5350e4') in 0.005514 seconds
-  Import took 0.007504 seconds .
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 1.616200 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.029200 ms MarkObjects: 1.290800 ms  DeleteObjects: 0.070800 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001678 seconds.
+Registered in 0.002838 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.498 seconds
+- Completed reload, in  0.768 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1321 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.7 MB.
-System memory in use after: 67.7 MB.
+Unloading 1430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.5 MB.
+System memory in use after: 68.5 MB.
 
-Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 1863.
-Total: 1.633200 ms (FindLiveObjects: 0.153500 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.379100 ms  DeleteObjects: 0.065800 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 2.171400 ms (FindLiveObjects: 0.191900 ms CreateObjectMapping: 0.032300 ms MarkObjects: 1.853500 ms  DeleteObjects: 0.092600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.5 MB.
+System memory in use after: 68.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 1.763700 ms (FindLiveObjects: 0.237200 ms CreateObjectMapping: 0.029200 ms MarkObjects: 1.426400 ms  DeleteObjects: 0.069500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.966 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.5 MB.
+System memory in use after: 68.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1899.
+Total: 3.447400 ms (FindLiveObjects: 0.334500 ms CreateObjectMapping: 0.128100 ms MarkObjects: 2.874800 ms  DeleteObjects: 0.108000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.779 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.5 MB.
+System memory in use after: 68.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 1.667300 ms (FindLiveObjects: 0.205000 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.355000 ms  DeleteObjects: 0.075900 ms)
 
 ========================================================================
 Received Prepare
